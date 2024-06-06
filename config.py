@@ -29,4 +29,4 @@ class Config(object):
     # database uri (mongodb)
     DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://altafpathan65012:<password>@cluster0.aztmome.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
     MAX_RESULTS = "50"
-    PREMIUM_USER = os.environ.get("PREMIUM_USER")
+    PREMIUM_USER = os.environ.get("502980590")
